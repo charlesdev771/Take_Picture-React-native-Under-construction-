@@ -1,3 +1,5 @@
+
+/*Teste*/
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import React, {useState, useEffect, TouchableOpacity, Modal, Image} from 'react';
